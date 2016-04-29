@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rb-inotify
 Version  : 0.9.5
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rb-inotify-0.9.5.gem
 Source0  : https://rubygems.org/downloads/rb-inotify-0.9.5.gem
 Summary  : No detailed summary available
